@@ -1,6 +1,6 @@
 > ### ✱ Bio
 > ```javascript
-> while ( catraco_still_alive() )
+> while ( still_alive() )
 > {
 >   code();
 >   // eat();
