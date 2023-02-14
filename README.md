@@ -25,4 +25,4 @@
 > </p>
 
 <br/>
-<img src="https://gpx-0.000webhostapp.com/" />
+<img src="https://gpx-0.000webhostapp.com" />
