@@ -1,26 +1,25 @@
-> ### ✱ Bio
+### `✱ Bio`
 > ```javascript
-> while ( still_alive() )
+> while ( ALIVE )
 > {
 >   code();
 >   // eat();
 >   // sleep();
 > }
 > ```
-> `Hi I’m Catraco ☺, programmer with one year experience.`
+> - Hi I’m Catraco ☺, student at ALX foundation.
 > 
-> `interested in all areas of programming. ✔️`
+> - Interested in all areas of programming. ✔️
 > 
-> `I’m looking to collaborate 💞️`
+> - I’m looking to collaborate 💞️
 >
-> `thank you ❤️️`
-> ### ✱ Contact
-> `Gmail : gpx.zero.000@gmail.com`
-> ### ✱ Programming Languages
+> - Thank you ❤️️
+> 
+### `✱ Contact`
+> - Email : gpx.zero.000@gmail.com
+### `✱ Skills`
 > <p>
-> <img src="https://img.icons8.com/fluency/96/null/c-programming.png"/>
-> <img src="https://img.icons8.com/fluency/96/null/c-plus-plus-logo.png"/>
-> <img src="https://img.icons8.com/color/96/null/python--v1.png"/>
-> <img src="https://img.icons8.com/color/96/null/javascript--v1.png"/>
-
-<embed src="https://profile-counter.vercel.app/api?action=json">
+> <img src="https://img.icons8.com/fluency/50/null/c-programming.png"/>
+> <img src="https://img.icons8.com/fluency/50/null/c-plus-plus-logo.png"/>
+> <img src="https://img.icons8.com/color/50/null/python--v1.png"/>
+> <img src="https://img.icons8.com/color/50/null/javascript--v1.png"/>
