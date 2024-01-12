@@ -17,10 +17,12 @@
 > 
 ### `✱ Contact`
 > - Email : gpx.zero.000@gmail.com
-> - Porfolio : https://portfolio-catraco.vercel.app/
-### `✱ Skills`
+> - Porfolio : ...
+### `✱ Knowledge`
 > <p>
 > <img src="https://img.icons8.com/fluency/50/null/c-programming.png"/>
 > <img src="https://img.icons8.com/fluency/50/null/c-plus-plus-logo.png"/>
 > <img src="https://img.icons8.com/color/50/null/python--v1.png"/>
 > <img src="https://img.icons8.com/color/50/null/javascript--v1.png"/>
+
+[![](https://visitcount.itsvg.in/api?id=gpxzero&label=Profile%20Views&color=9&icon=3&pretty=false)](https://visitcount.itsvg.in)
