@@ -5,12 +5,11 @@
 >   code();
 >   // eat();
 >   // sleep();
->   // s***();
 > }
 > ```
-> - Hi I’m Ayman ☺, self taught student.
+> - Hi I’m Ayman ☺
 > 
-> - Interested in all areas of programming. ✔️
+> - Interested in programming. ✔️
 > 
 > - I’m looking to collaborate 💞️
 >
