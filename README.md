@@ -22,8 +22,7 @@
 > <img src="https://img.icons8.com/fluency/50/typescript--v2.png"/>
 > <img src="https://img.icons8.com/fluency/50/nextjs.png"/>
 > <img src="https://img.icons8.com/plasticine/50/react.png"/>
-> <img src="https://img.icons8.com/fluency/50/angularjs.png"/>
-> <img src="https://img.icons8.com/fluency/50/vuejs.png"/>
+> <img src="https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png&color=000000"/>
 ### `✱ Contact`
 > - Email : ayman.achain@gmail.com
 > - Porfolio : ...
