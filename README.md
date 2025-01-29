@@ -15,7 +15,7 @@
 >
 > - Thank you ❤️️
 > 
-### `✱ Knowledge`
+### `✱ Technical stack`
 > <p>
 > <img src="https://img.icons8.com/color/50/null/python--v1.png"/>
 > <img src="https://img.icons8.com/color/50/null/javascript--v1.png"/>
@@ -25,7 +25,7 @@
 > <img src="https://img.icons8.com/fluency/50/angularjs.png"/>
 > <img src="https://img.icons8.com/fluency/50/vuejs.png"/>
 ### `✱ Contact`
-> - Email : gpx.zero.000@gmail.com
+> - Email : ayman.achain@gmail.com
 > - Porfolio : ...
 
 [![](https://visitcount.itsvg.in/api?id=gpxzero&label=Profile%20Views&color=9&icon=3&pretty=false)](https://visitcount.itsvg.in)
