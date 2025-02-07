@@ -6,15 +6,6 @@
 >   // eat();
 >   // sleep();
 > }
-> ```
-> - Hi I’m Ayman ☺
-> 
-> - Interested in programming. ✔️
-> 
-> - I’m looking to collaborate 💞️
->
-> - Thank you ❤️️
-> 
 ### `✱ Technical stack`
 > <p>
 > <img src="https://img.icons8.com/color/50/null/python--v1.png"/>
@@ -25,6 +16,5 @@
 > <img src="https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png&color=000000"/>
 ### `✱ Contact`
 > - Email : ayman.achain@gmail.com
-> - Porfolio : ...
 
 [![](https://visitcount.itsvg.in/api?id=gpxzero&label=Profile%20Views&color=9&icon=3&pretty=false)](https://visitcount.itsvg.in)
